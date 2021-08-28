@@ -1,0 +1,45 @@
+table{
+    width: 80%;
+    align:center;
+    border: 5px solid wheat;
+   
+    
+   
+   
+}
+th,td{
+    border: 2px solid green;
+    padding: 15px;
+   
+  
+  
+
+   
+}
+#time{
+    
+    text-transform: uppercase;
+    color: black;
+}
+.left{
+    text-align: left;
+}
+body{
+    background-color:wheat;
+  
+    
+    
+    
+}
+a{
+    text-decoration: none;
+    color: blue;
+   opacity: ;
+}
+a:hover{
+    background-color:white;
+    
+}
+
+
+
