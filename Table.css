@@ -40,6 +40,14 @@ a:hover{
     background-color:white;
     
 }
-
+.onecredit{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+    font-size:22px;
+    font-weight: bold;
+  
+  
+}
 
 
